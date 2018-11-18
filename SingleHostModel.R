@@ -2,8 +2,8 @@
 # Preference depends on vector status (non-viruliferous versus viruliferous)
 # Lauren Shoemaker
 
-# Requires library deSolve
-# load library to solve differential equations
+# Requires library deSolve to solve differential equations
+# Load library 
 library(deSolve)
 
 # Model set-up
