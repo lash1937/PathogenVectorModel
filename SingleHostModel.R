@@ -13,7 +13,7 @@ T <- 100                  # Total number of plants (won't alter outcome)
 starting_infection <- .1  # Percent hosts already infected
 starting_vectors <- 50    # Starting vector population size
 
-sP <- round((1-starting_infection)*T)  # Starting number fo healthy hosts
+sP <- round((1-starting_infection)*T)  # Starting number of healthy hosts
 iP <-round(starting_infection*T)       # Starting number of infected hosts
 sV <- starting_vectors                 # Starting number of healthy vectors
 iV <- 0                                # Starting number of infected vectors
