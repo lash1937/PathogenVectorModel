@@ -8,7 +8,8 @@ library(deSolve)
 
 # Model set-up
 times <- 0:100            # Total amount of time-steps to run the model
-T <- 100                  # Total number of plants (won't alter outcome)
+T <- 100                  # Total number of plants 
+                          # (won't alter outcome if starting with a percent of hosts infected)
 
 starting_infection <- .1  # Percent hosts already infected
 starting_vectors <- 50    # Starting vector population size
