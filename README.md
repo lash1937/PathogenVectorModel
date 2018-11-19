@@ -3,5 +3,8 @@
 # Lauren G. Shoemaker
 # Last edited November 18, 2018
 
-# Included code and descriptions
-# 1. 
+# Included code
+# 1. SingleHostModel.R — a model with non-viruliferous and viruliferous vector 
+# preference for non-infected versus infected hosts.
+# 2. MultihostModel.R — a model with non-viruliferous and viruliferous vector 
+# preference for non-infected versus infected hosts of species 1 versus species 2. 
